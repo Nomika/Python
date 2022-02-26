@@ -1,0 +1,15 @@
+
+znaki = "Ahoj przygodo!"
+
+print("Znaki to:", znaki)
+
+
+
+
+
+
+
+
+
+
+
