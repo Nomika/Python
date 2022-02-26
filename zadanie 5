@@ -1,0 +1,16 @@
+
+a = 3
+b = 6
+c = (a*a)+(b*b)
+print("Suma kwadratów liczby a i liczby b to:", c)
+print("Suma kwadratów liczby a i liczby b to:", ((a*a)+(b*b)))
+
+
+
+
+
+
+
+
+
+
