@@ -1,0 +1,31 @@
+print("Hello World")
+i = 1
+z = "    ^"
+while (i < 5):
+        print (z)
+        i += 1
+        z = "   ^^^"
+        print(z)
+        i += 1
+        z = "  ^^^^^"
+        print(z)
+        i += 1
+        z = " ^^^^^^^"
+        print(z)
+        i += 1
+        z = "  ^^^^^"
+        print(z)
+        i += 1
+        z = " ^^^^^^^"
+        print(z)
+        z = " ^^^^^^^"
+        print(z)
+
+
+
+
+
+
+
+
+
