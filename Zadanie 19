@@ -1,0 +1,17 @@
+
+a = 2
+b = 2
+c =2
+
+if a == b:
+    print("Liczba a i b są sobie równe")
+else:
+    print("Liczba a i b NIE są sobie równe!")
+if b == c:
+    print("Liczba b i c są sobie równe")
+else:
+    print("Liczba b i c NIE są sobie równe")
+if a == c:
+    print("Liczba a i c są sobie równe")
+else:
+    print("Liczba a i c NIE są sobie równe")
