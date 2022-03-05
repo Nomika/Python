@@ -1,0 +1,5 @@
+print("Podaj imię i nazwisko:")
+im_naz = input()
+print(im_naz)
+
+
