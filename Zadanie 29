@@ -1,0 +1,10 @@
+
+m = [3, -5, 2, 10, -14, 6, 8, 15, 9, 21]
+for i in m:
+    if i <11 and i > 0 :
+        print(i)
+
+    else:
+        print('')
+print("Suma liczb wynosi:", (sum(m)))
+
