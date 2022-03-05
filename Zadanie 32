@@ -1,0 +1,16 @@
+
+print("Podaj liczbę: ")
+x=int(input())
+print(x)
+z = x * 2
+print(z)
+
+print("Podaj liczbę: ")
+x=int(input())
+print(x)
+z = x * 2
+print("Liczba dwa razy większa to: ", z)
+
+
+
+
