@@ -1,15 +1,12 @@
 
-x = 3
-if x > 2:
-    print("Gratulacje!")
-    print("Warunek spelniony")
+a = 0
+b = 0
+if a > 0 and b > 0:
+    P = a * b
+    print("Pole prostokąta wynosi: ",P)
 else:
-    print("Niestety...")
-    print("Warinek nie jest spełniony")
-
-print("Koniec programu")
-
-
+    print("Błędne dane")
+    print("Boki prostokąta muszą być dodatnie")
 
 
 
