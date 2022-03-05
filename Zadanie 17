@@ -1,0 +1,10 @@
+
+a = 30
+if a % 2 == 0:
+    print("Ta liczba jest parzysta")
+else:
+    print("Ta liczba nie jest parzysta!")
+    if a % 3 == 0:
+        print("Ta liczba jest podzielna przez 3!")
+    else:
+        print("Ta liczba nie jest podzielna przez 3!")
