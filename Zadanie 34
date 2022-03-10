@@ -1,0 +1,46 @@
+def moja_funkcja():
+    print("Moja funkcja")
+    print("coś wypisuje")
+moja_funkcja()
+def dzialania(a, b):
+    s = a + b
+    i = a * b
+    d = a / b
+    return [s, i, d]
+wynik = dzialania(10, 5)
+print(wynik)
+
+def obcinaj(s):
+    return(s[1:5])
+rezultat = obcinaj("Monika")
+print(rezultat)
+
+a = 5
+b = 7
+c = 10
+liczby = [a, b, c]
+print(liczby)
+print(max(liczby))
+liczby.remove(min(liczby))
+print(liczby)
+sum(liczby)
+print(sum(liczby))
+
+numery= [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+print(numery)
+
+
+def parzyste(numery):
+    for liczba in numery:
+        if liczba % 2 == 0:
+            print(liczba)
+        elif liczba == [9]:
+            break
+            print(liczba)
+parzyste(numery)
+
+def pole_trapezu(a, b, h):
+    c = (a+b)*h/2
+    return [c]
+wyniki = pole_trapezu(10, 5, 6)
+print(wyniki)
